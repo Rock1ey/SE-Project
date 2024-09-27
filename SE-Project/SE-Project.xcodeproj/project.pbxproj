@@ -14,6 +14,7 @@
 		847E47742CA2B45200FDE872 /* SE_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847E47732CA2B45200FDE872 /* SE_ProjectTests.swift */; };
 		847E477E2CA2B45200FDE872 /* SE_ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847E477D2CA2B45200FDE872 /* SE_ProjectUITests.swift */; };
 		847E47802CA2B45200FDE872 /* SE_ProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 847E477F2CA2B45200FDE872 /* SE_ProjectUITestsLaunchTests.swift */; };
+		84C265172CA682670015A848 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C265162CA682670015A848 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		847E47792CA2B45200FDE872 /* SE-ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SE-ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		847E477D2CA2B45200FDE872 /* SE_ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SE_ProjectUITests.swift; sourceTree = "<group>"; };
 		847E477F2CA2B45200FDE872 /* SE_ProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SE_ProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		84C265162CA682670015A848 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				847E47622CA2B45100FDE872 /* SE_ProjectApp.swift */,
 				847E47642CA2B45100FDE872 /* ContentView.swift */,
+				84C265162CA682670015A848 /* SwiftUIView.swift */,
 				847E47662CA2B45200FDE872 /* Assets.xcassets */,
 				847E47682CA2B45200FDE872 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				847E47652CA2B45100FDE872 /* ContentView.swift in Sources */,
 				847E47632CA2B45100FDE872 /* SE_ProjectApp.swift in Sources */,
+				84C265172CA682670015A848 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
